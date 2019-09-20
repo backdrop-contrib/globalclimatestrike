@@ -1,0 +1,12 @@
+<?php
+/**
+ * Adds the Global Climate Strike banner and blackout.
+ */
+
+/**
+ * Implements hook_preprocess_page().
+ */
+function globalclimatestrike_preprocess_page($variables) {
+  // <script src="" async></script>
+  backdrop_add_js('https://assets.digitalclimatestrike.net/widget.js', 'external');
+}
