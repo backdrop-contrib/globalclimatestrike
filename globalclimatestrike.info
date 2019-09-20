@@ -2,3 +2,5 @@ type = module
 name = Global Climate Strike
 description = Adds the Global Climate Strike banner and blackout.
 backdrop = 1.x
+
+configure = admin/config/climatestrike
