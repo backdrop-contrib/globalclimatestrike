@@ -1,14 +1,18 @@
 Global Climate Strike
 =====================
 
+Please uninstall this module, or update to the latest version from 2023.
+
+**If you still have an old version of this module installed, please remove it immediately.
+digitalclimatestrike.net has been taken over by spammers.**
+
 This module will add the banner message declaring that your site is opting in
 to a global Digital Climate Strike on 20th September, 2019.
 
 Installation
 ------------
 
-- Install this module using the official Backdrop CMS instructions at
-  https://backdropcms.org/guide/modules.
+- Do not install this module (it does nothing now).
 
 Issues
 ------
@@ -19,12 +23,13 @@ https://github.com/backdrop-contrib/foo-project/issues.
 Current Maintainers
 -------------------
 
-- Jen Lampton (https://github.com/username).
+- none, this module is unsupported.
 
 Credits
 -------
 
 - Includes code from https://github.com/fightforthefuture/digital-climate-strike
+- Creaed for Backdrop by Jen Lampton (https://github.com/username).
 
 License
 -------
